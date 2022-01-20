@@ -38,7 +38,7 @@ nav {
   padding: 10px 0;
   margin-bottom: 30px;
 }
-.router-link-active {
+.router-link-exact-active {
   background: #eee;
   color: #444;
 }
